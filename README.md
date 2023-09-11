@@ -262,7 +262,7 @@ You'll see that IntelliJ flags that you are trying to access something that is p
 Java won't even let you run the code when it detects this kind of violation of an access modifier (it is an
 error and not just a warning).
 
-- [ ] Hover over the error; IntelliJ will suggest some fixes.
+- [X] Hover over the error; IntelliJ will suggest some fixes.
 
 - [X] Click `More actions...` and you'll see a list of the various possible access modifiers.
 These will be explained in more detail in your readings, but for now we can just make the method public.
