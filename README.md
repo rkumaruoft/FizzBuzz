@@ -264,7 +264,7 @@ error and not just a warning).
 
 - [X] Hover over the error; IntelliJ will suggest some fixes.
 
-- [] Click `More actions...` and you'll see a list of the various possible access modifiers.
+- [X] Click `More actions...` and you'll see a list of the various possible access modifiers.
 These will be explained in more detail in your readings, but for now we can just make the method public.
 
 - [X] Choose this fix and the error will go away. Try running `Main.java` to see if it outputs
